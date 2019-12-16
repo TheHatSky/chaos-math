@@ -1,0 +1,12 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["Artem Sakhatskiy <sakhatskiy@yahoo.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+plotlib = "0.4.0"
+rand = "0.3.14"
+
